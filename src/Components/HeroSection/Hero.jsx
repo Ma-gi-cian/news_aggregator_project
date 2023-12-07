@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Temperature from "../Temperature/Temperature";
+
 export default function Hero(){
 
   const Api_key = `cfccc2b54f2f4b94b174100e77c825bd`;

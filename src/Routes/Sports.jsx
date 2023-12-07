@@ -6,7 +6,7 @@ export default function Sports(props){
         <section>
             <Navigation/>
             <div>
-                <ContentDisplayer data = {props.Sports}/>
+                <ContentDisplayer data = {props.Sports} name = "Sports"/>
             </div>
             <Footer/>
         </section>
